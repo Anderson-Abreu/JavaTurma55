@@ -6,7 +6,7 @@ final imprimir a média dos números múltiplos de 3. Para sair digitar
 
 package Repeticao;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class Exercicio6 {
 
