@@ -3,7 +3,13 @@ package Heranca;
 public class TesteHeranca {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		Animal a1 = new Animal();
+		Mamifero gato = new Mamifero();
+		Ave pinguim = new Ave();
+		
+	
+		
 
 	}
 
